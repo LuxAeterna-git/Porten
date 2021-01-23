@@ -1,7 +1,7 @@
 @import "./normalize.css";
 * {
   box-sizing: border-box;
-  max-width: 1440px;
+  max-width: 1920px;
   font-family: "PT Sans", sans-serif;
 }
 /*Хедер инфо - верхняя часть хедера с номером, режимом и регистрацией*/
